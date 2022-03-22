@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "content": "Doctors Appointment",
+      "done": false
+    },
+    {
+      "id": 2,
+      "content": "Meeting at School",
+      "done": false
+    },
+    {
+      "id": 3,
+      "content": "Food Shopping",
+      "done": false
+    }
+  ]
+}

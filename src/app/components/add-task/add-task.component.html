@@ -1,0 +1,13 @@
+<form *ngIf="showForm" class="add-form" (ngSubmit)="onSubmit()">
+  <div class="form-control">
+    <label for="task">Task</label>
+    <input
+      type="text"
+      name="task"
+      id="task"
+      placeholder="AddTask"
+      [(ngModel)]="content"
+    />
+  </div>
+  <input type="submit" value="Add" class="btn btn-block" />
+</form>

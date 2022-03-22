@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-crash';
+
 }
+// https://www.youtube.com/watch?v=3dHNOWTI7H8 17:17
+
